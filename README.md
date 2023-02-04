@@ -8,6 +8,7 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 - 🎮 Favorite games: Arcaea[^1], Beat Saber[^1]
 - 🌐 Favorite web browser: Firefox
 - 🔭 Currently working on a *seeecret* project
+- 🌱 I’m currently learning MongoDB and GraphQL
 - 😄 Pronouns: she/her, [my pronouns.page](https://pronouns.page/@typicalteacup)
 - 📫 How to reach me
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github: " width=16 height=16> you're on it
