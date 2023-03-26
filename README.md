@@ -60,7 +60,7 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 ### Web frameworks/libraries
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte:" width=16 height=16> love it, basically no boilerplate, everything is pretty logical, **10/10**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React:" width=16 height=16> too much boilerplate, no idea how to use contexts, **5 maybe 5.5/10**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React:" width=16 height=16> how do i do anything **5/10**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue:" width=16 height=16> not a fan of the default styling behavior being global
   - Options API: too much memorization, would be better if every option was the same type, **7.5/10**
   - Composition API: didn't really use it that much, looks a bit better, **8.5/10**
