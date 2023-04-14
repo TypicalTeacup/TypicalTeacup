@@ -7,7 +7,7 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 - 🎵 Favorite music: ~~that type of music that's good for hard rhythm game charts~~ i've been informed that is called hardcore
 - 🎮 Favorite games: Arcaea[^1], Beat Saber[^1]
 - 🌐 Favorite web browser: Firefox
-- 🔭 Currently working on a *seeecret* project
+- 🔭 Currently working on rewriting tea simulator 
 - 🌱 I’m currently learning Vue.js<sup>[citation needed](https://en.uncyclopedia.co/wiki/Nothing)</sup>
 - 😄 Pronouns: she/her, [my pronouns.page](https://pronouns.page/@typicalteacup)
 - 📫 How to reach me
