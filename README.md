@@ -52,7 +52,7 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 - JS: even weirder but i like actual programming better, **9/10**
 - PHP: ew, only things it got right is the connection to mysql and [this](https://www.php.net/manual/en/class.gender.php), **2/10**
 - Python: don't really have a use for it but i like it, **8/10**
-- Lua: learned it for roblox, big fan of both the language and roblox studio, **9/10**
+- Lua: learned it for roblox, big fan[^2] of both the language and roblox studio, **9/10**
 - Java: the amount of stuff you have to write to just get a console window scares me, **3/10**
 - C#: maybe i would like it more if i had a pc that could run visual studio without lagging, **6/10**
 - C++: needs too much knowledge about computers, at that point just use C, **2/10**
@@ -68,3 +68,4 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 - jQuery (couldn't find a square logo i'm sorry): do i even have to say it, **no/10**
 
 [^1]: big surprise
+[^2]: i'm gonna put a giant image of a desk fan here mark my damn words
