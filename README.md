@@ -4,7 +4,7 @@
 
 Just a trans girl trying to survive in this hellscape I call Poland.
 
-- 🎵 Favorite music: ~~that type of music that's good for hard rhythm game charts~~ i've been informed that is called hardcore
+- 🎵 Favorite music: ~~that type of music that's good for hard rhythm game charts~~ i've been informed that is called j-core
 - 🎮 Favorite games: Arcaea[^1], Beat Saber[^1]
 - 🌐 Favorite web browser: Firefox
 - 🔭 Currently working on rewriting tea simulator 
