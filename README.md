@@ -8,7 +8,7 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 - 🎮 Favorite games: Arcaea[^1], Beat Saber[^1]
 - 🌐 Favorite web browser: Firefox
 - 🔭 Currently working on rewriting tea simulator 
-- 🌱 I’m currently learning Vue.js<sup>[citation needed](https://en.uncyclopedia.co/wiki/Nothing)</sup>
+- 🌱 I’m currently learning React<sup>[citation needed](https://en.uncyclopedia.co/wiki/Nothing)</sup>
 - 😄 Pronouns: she/her, [my pronouns.page](https://pronouns.page/@typicalteacup)
 - 📫 How to reach me
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github: " width=16 height=16> you're on it
@@ -68,4 +68,4 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 - jQuery (couldn't find a square logo i'm sorry): do i even have to say it, **no/10**
 
 [^1]: big surprise
-[^2]: i'm gonna put a giant image of a desk fan here mark my damn words
+[^2]: https://m.media-amazon.com/images/I/61gxVplPzdL._AC_SL1000_.jpg
