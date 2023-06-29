@@ -4,21 +4,21 @@
 
 Just a trans girl trying to survive in this hellscape I call Poland.
 
+
+- 🌐 Favorite web browser: Firefox
+- 🔭 Currently working on rewriting [tea simulator](https://www.roblox.com/games/6041614401/tea-simulator)
+- 🌱 I’m currently learning Laravel<!--<sup>[citation needed](https://en.uncyclopedia.co/wiki/Nothing)</sup> saving this for the future-->
+- 😄 Pronouns: she/her, [my pronouns.page](https://pronouns.page/@typicalteacup)
 - 🎵 Favorite music: ~~that type of music that's good for hard rhythm game charts~~ i've been informed that is called j-core
 - 🎮 Favorite games: Arcaea[^1], Beat Saber[^1]
-- 🌐 Favorite web browser: Firefox
-- 🔭 Currently working on rewriting tea simulator 
-- 🌱 I’m currently learning React<sup>[citation needed](https://en.uncyclopedia.co/wiki/Nothing)</sup>
-- 😄 Pronouns: she/her, [my pronouns.page](https://pronouns.page/@typicalteacup)
 - 📫 How to reach me
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github: " width=16 height=16> you're on it
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter: " width=16 height=16> [@TypicalTeacup](https://twitter.com/TypicalTeacup/)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter: " width=16 height=16> [@TypicalTeacup](https://twitter.com/TypicalTeacup/) <!--wikimedia changed the filename i am so pissed off-->
   - <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord: " width=16 height=16> TypicalTeacup#9864
   - not through email i never read it
 
 ## ❤ Projects that i'm proud of
 
-- that *seeecret* project i'm working on rn
 - [tea simulator](https://www.roblox.com/games/6041614401/tea-simulator)
 
 ## 💻 Tech I know how to use
@@ -50,12 +50,12 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 
 - HTML & CSS: very weird sometimes, **8/10**
 - JS: even weirder but i like actual programming better, **9/10**
-- PHP: ew, only things it got right is the connection to mysql and [this](https://www.php.net/manual/en/class.gender.php), **2/10**
+- PHP: maybe it will be better with laravel (also, [this](https://www.php.net/manual/en/class.gender.php)), currently **3/10**
 - Python: don't really have a use for it but i like it, **8/10**
 - Lua: learned it for roblox, big fan[^2] of both the language and roblox studio, **9/10**
-- Java: the amount of stuff you have to write to just get a console window scares me, **3/10**
-- C#: maybe i would like it more if i had a pc that could run visual studio without lagging, **6/10**
-- C++: needs too much knowledge about computers, at that point just use C, **2/10**
+- Java: the amount of stuff you have to write to just get a console window scares me, **2/10**
+- C#: maybe i would like it more if i had a pc that could run visual studio without lagging, **7/10**
+- C++: used it for competitive, now i hate it (competitive, not the language (but the language is still eh)), **4/10**
 
 ### Web frameworks/libraries
 
