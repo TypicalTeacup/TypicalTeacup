@@ -50,7 +50,7 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 
 - HTML & CSS: very weird sometimes, **8/10**
 - JS: even weirder but i like actual programming better, **9/10**
-- PHP: maybe it will be better with laravel (also, [this](https://www.php.net/manual/en/class.gender.php)), currently **3/10**
+- PHP: it's one of those languages that's awful without frameworks, but really good with one **8/10**
 - Python: don't really have a use for it but i like it, **8/10**
 - Lua: learned it for roblox, big fan[^2] of both the language and roblox studio, **9/10**
 - Java: the amount of stuff you have to write to just get a console window scares me, **2/10**
