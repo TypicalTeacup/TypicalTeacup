@@ -69,7 +69,7 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 
 ### Backend frameworks
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel:"> actually makes php good, **8/10**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel:" width=16 height=16> actually makes php good, **8/10**
 - Express.js (there is no logo really): , **9/10**
 
 [^1]: big surprise
