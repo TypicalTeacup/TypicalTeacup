@@ -7,7 +7,7 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 
 - 🌐 Favorite web browser: Firefox
 - 🔭 Currently working on rewriting [tea simulator](https://www.roblox.com/games/6041614401/tea-simulator)
-- 🌱 I’m currently learning Laravel<!--<sup>[citation needed](https://en.uncyclopedia.co/wiki/Nothing)</sup> saving this for the future-->
+- 🌱 I’m currently learning Neovim<!--<sup>[citation needed](https://en.uncyclopedia.co/wiki/Nothing)</sup> saving this for the future-->
 - 😄 Pronouns: she/her, [my pronouns.page](https://pronouns.page/@typicalteacup)
 - 🎵 Favorite music: ~~that type of music that's good for hard rhythm game charts~~ i've been informed that is called j-core
 - 🎮 Favorite games: Arcaea[^1], Beat Saber[^1]
