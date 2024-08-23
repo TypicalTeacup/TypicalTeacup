@@ -6,18 +6,18 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 
 
 - 🌐 Favorite web browser: Firefox
-- 🔭 Currently working on rewriting [tea simulator](https://www.roblox.com/games/6041614401/tea-simulator)
-- 🌱 I’m currently learning Neovim<!--<sup>[citation needed](https://en.uncyclopedia.co/wiki/Nothing)</sup> saving this for the future-->
+- 🔭 Currently working on rewriting [tea simulator](https://www.roblox.com/games/6041614401/tea-simulator)<sup>[citation needed](https://en.uncyclopedia.co/wiki/Nothing)</sup>
+- 🌱 I’m currently learning Love2D<!--<sup>[citation needed](https://en.uncyclopedia.co/wiki/Nothing)</sup> saving this for the future-->
 - 😄 Pronouns: she/her, [my pronouns.page](https://pronouns.page/@typicalteacup)
-- 🎵 Favorite music: ~~that type of music that's good for hard rhythm game charts~~ i've been informed that is called j-core
+- 🎵 Favorite music: i actually have no idea, i just listen to stuff that sounds cool to me (mostly songs that make hard rhythm game charts)
 - 🎮 Favorite games: Arcaea[^1], Beat Saber[^1]
 - 📫 How to reach me
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github: " width=16 height=16> you're on it
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter: " width=16 height=16> [@TypicalTeacup](https://twitter.com/TypicalTeacup/) <!--wikimedia changed the filename i am so pissed off-->
-  - <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord: " width=16 height=16> TypicalTeacup#9864
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter: " width=16 height=16> [@TypicalTeacup](https://twitter.com/TypicalTeacup/) <!--i am not calling twitter x until elon calls his daughter vivian-->
+  - <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord: " width=16 height=16> @typicalteacup
   - not through email i never read it
 
-## ❤ Projects that i'm proud of
+## ❤ Projects that I'm proud of
 
 - [tea simulator](https://www.roblox.com/games/6041614401/tea-simulator)
 
@@ -30,6 +30,8 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)<!--eol-->  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=ffffff) 
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=ffffff)<!--eol-->  
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<!--eol-->  
@@ -54,7 +56,7 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 - Python: don't really have a use for it but i like it, **8/10**
 - Lua: learned it for roblox, big fan[^3] of both the language and roblox studio, **9/10**
 - Java: the amount of stuff you have to write to just get a console window scares me, **2/10**
-- C#: maybe i would like it more if i had a pc that could run visual studio without lagging, **7/10**
+- C#: maybe i would like it more if i had a pc that could run visual studio without lagging, **6/10**
 - C++: used it for competitive, now i hate it (competitive, not the language (but the language is still eh)), **4/10**
 
 ### Web frameworks/libraries
