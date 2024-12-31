@@ -15,7 +15,7 @@ Just a trans girl trying to survive in this hellscape I call Poland.
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github: " width=16 height=16> you're on it
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter: " width=16 height=16> [@TypicalTeacup](https://twitter.com/TypicalTeacup/) <!--i am not calling twitter x until elon calls his daughter vivian-->
   - <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord: " width=16 height=16> @typicalteacup
-  - not through email i never read it
+  - 📧 [kskirel@wp.pl](mailto:kskirel@wp.pl)
 
 ## ❤ Projects that I'm proud of
 
@@ -60,14 +60,11 @@ Just a trans girl trying to survive in this hellscape I call Poland.
 - C++: used it for competitive, now i hate it (competitive, not the language (but the language is still eh)), **4/10**
 
 ### Web frameworks/libraries
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte:" width=16 height=16> love it, basically no boilerplate, everything is pretty logical, **10/10**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React:" width=16 height=16> how do i do anything **5/10**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React:" width=16 height=16> functional enough **5/10**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue:" width=16 height=16> not a fan of the default styling behavior being global
   - Options API: too much memorization, would be better if every option was the same type, **6.5/10**
   - Composition API: now i can say i actually used it and wow, **9.5/10**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Vanilla HTML5:" width=16 height=16> good for very small sites and nothing else really, **5/10**
-- jQuery (couldn't find a square logo i'm sorry): do i even have to say it, **no/10**
 
 ### Backend frameworks
 
